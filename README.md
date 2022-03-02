@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+Using this repo for the alx shell basics course
